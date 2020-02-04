@@ -1,7 +1,0 @@
-Scraped Data for the top 5 teams from the english premier league for the 2018-2019 season. We have used 3 sources, API, web scraping and a csv file.
-
-
-URL: https://www.soccerstats.com/latest.asp?league=england_2019
-
-API Website:http://api.football-data.org/v2
-Token :88ed031015d040689e5dda65c9260458 
